@@ -9,6 +9,8 @@ public class DaMain {
 		
 		System.out.println("made a new gui");
 		System.out.println("new gui works");
+		
+		System.out.println("THIS WILL GET ME A CENTURY!");
 	}
 
 }
